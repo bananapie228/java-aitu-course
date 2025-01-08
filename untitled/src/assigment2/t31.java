@@ -10,8 +10,8 @@ public class t31 {
 class Earthling {
 }
 
-class Person extends Earthling {
+class Personn extends Earthling {
 }
 
-class Female extends Person {
+class Female extends Personn {
 }
